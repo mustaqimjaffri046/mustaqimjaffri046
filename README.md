@@ -11,8 +11,8 @@
 👨‍💻 Experienced in Google Cardboard XR for Unity, ensuring seamless and immersive virtual reality experiences.
 
 🌐 Connect with me:
-   - [LinkedIn]((https://www.linkedin.com/in/muhammad-mustakeem-827915225/))
-   - [Upwork]([https://www.upwork.com/freelancers/mustakeemunitygamedev)
+   - [LinkedIn]([your_twitter_profile](https://www.linkedin.com/in/muhammad-mustakeem-827915225/))
    - [StackoverFlow](https://stackoverflow.com/users/16710681/muhammad-mustakeem)
+   - [Upwork](your_linkedin_profile)
 
 Let's code and create worlds together! 🌟
