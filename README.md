@@ -13,6 +13,6 @@
 🌐 Connect with me:
    - [LinkedIn]((https://www.linkedin.com/in/muhammad-mustakeem-827915225/))
    - [Upwork]([https://www.upwork.com/freelancers/mustakeemunitygamedev)
-   - [Upwork](https://stackoverflow.com/users/16710681/muhammad-mustakeem)
+   - [StackoverFlow](https://stackoverflow.com/users/16710681/muhammad-mustakeem)
 
 Let's code and create worlds together! 🌟
